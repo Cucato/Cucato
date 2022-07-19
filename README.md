@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cucato
- ## Olá, me chamo Luan Cucato, formado em Engenharia e aspira de programador 🙃
+ ## Olá, me chamo Luan Cucato, formado em Engenharia e formando de TI
 <div align="center">
   <a href="https://github.com/Cucato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cucato&show_icons=true&theme=highcontrastl&include_all_commits=true&count_private=true"/>
