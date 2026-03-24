@@ -1,23 +1,34 @@
-- 👋 Hi, I’m @Cucato
- 
+# 👋 Hi, I'm Luan (Cucato)
+
+💻 Python Developer with 4+ years of experience building web systems using Django, HTMX and JavaScript.
+
+I focus on creating **dynamic, efficient applications without heavy front-end frameworks**, combining clean backend logic with lightweight interactive UIs.
+
+---
+
+## 🚀 What I do
+- Build web applications with **Django + HTMX**
+- Create dynamic interfaces using **pure JS (no heavy frameworks)**
+- Work with **complex forms, filters, and business logic**
+- Optimize performance and backend workflows
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** Python, Django
+- **Frontend:** HTMX, JavaScript, HTML, CSS
+- **Other:** Git, REST APIs
+
+---
+
+## 📊 Stats
 <div align="center">
-  <a href="https://github.com/Cucato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cucato&show_icons=true&theme=highcontrastl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cucato&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cucato&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cucato&layout=compact&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cucato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cucato-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Cucato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cucato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cucato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cucato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cucato-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---
+
+## 📫 Contact
+- Discord: Cucato#5137
+- Email: luancucato@gmail.com
