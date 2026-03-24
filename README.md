@@ -15,9 +15,18 @@ I focus on creating **dynamic, efficient applications without heavy front-end fr
 ---
 
 ## 🛠️ Tech Stack
-- **Backend:** Python, Django
-- **Frontend:** HTMX, JavaScript, HTML, CSS
-- **Other:** Git, REST APIs
+
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
+![AWS](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonaws)
+![jQuery](https://img.shields.io/badge/jQuery-333?style=for-the-badge&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
+![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
 
 ---
 
